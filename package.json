@@ -1,0 +1,22 @@
+{
+  "name": "exoplanet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "assert": "^2.1.0",
+    "csv-generate": "^4.4.1",
+    "csv-parse": "^5.5.6",
+    "stream-transform": "^3.3.2"
+  }
+}
